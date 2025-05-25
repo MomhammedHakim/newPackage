@@ -1,0 +1,19 @@
+{
+    "name": "nsm/hakim",
+    "description": "for tesing my first project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nsm\\Hakim\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MomhammedHakim",
+            "email": "momabdu7777@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
